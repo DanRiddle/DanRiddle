@@ -45,9 +45,9 @@
 
 ## 📊 GitHub Stats
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanRiddle&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanRiddle&layout=compact&theme=dark)
 
 ---
 
