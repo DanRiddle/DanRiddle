@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm DanRidlle!
+# 👋 Hi there, I'm Dan Riddle!
 
 💻 Full-stack Developer | System Builder  
 🎮 FiveM & RedM Script Developer (Hobby)  
